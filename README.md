@@ -33,7 +33,7 @@ The reason behind my motivation is pretty simple. I, of course, want to build a 
 ### 🛠  &nbsp;&nbsp;Tools and Technologoies
 
 - **OS** : macOS, Windows, Ubuntu
-- **Languages** : JavaScript, SQL, CSS, HTML, Bash, Markdown, C
+- **Languages** : JavaScript, SQL, CSS, HTML, Bash, Markdown
 - **Tools** : Node.js, Express, React, React Native, Jest, Git, Github, VS Code, NPM, Yarn, Agile, REST, Heroku, AWS, AWS EC2, AWS S3, Socket.io, Web Sockets, Superagent, Expo, EJS, jQuery, Mustache, PostgreSQL, MongoDB, Regex, CDN, Gatsby
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jquaglia&layout=compact&theme=calm&card_width=800)](https://github.com/jquaglia/github-readme-stats)
