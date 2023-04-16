@@ -1,105 +1,3 @@
-![header image](./assets/header.png)
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/jason-quaglia/" target="_blank" rel="noopener noreferrer">
-        <img height="38" src="./assets/linkedin.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/SirJasonTyler" target="_blank" rel="noopener noreferrer">
-        <img height="38" src="./assets/twitter.png">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:jqugali@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img height="35" src="./assets/gmail.png">
-    </a>
-</p>
-
----
-
-### 🤓 &nbsp;&nbsp;Who am I?
-
-I'm a JavaScript Developer with a background in the Customer Service Industry. I am passionate about creathing a better world through customer-first software using agile methodologies. I'm continuously looking for new development challenges.
-
-#### Pronouns: He / Him
-
----
-
-### 👻 &nbsp;&nbsp;How and Why I Became a Developer
-
-I had been trying to teach myself to program for a couple years but it wasn't until COVID-19 hit that I really devoted myself to it. I decided to attend an accelerated software development program with Code Fellows. It was here that I really fell in love with software.
-
-The reason behind my motivation is pretty simple. I, of course, want to build a better life for family, friends, and those around me but on a personal level, I am tired of living in a world where the rules are decided by others. I want to become one of the creators that shape how society interacts with one another. I want to create and foster a world that everyone wants to live and thrive in. I believe tech is one of the best ways to make an impact on society as a single person.
-
----
-
-### 🛠  &nbsp;&nbsp;Tools and Technologoies
-
-- **OS** : macOS, Windows, Ubuntu
-- **Languages** : JavaScript, SQL, CSS, HTML, Bash, Markdown
-- **Tools** : Node.js, Express, React, React Native, Jest, Git, Github, VS Code, NPM, Yarn, Agile, REST, Heroku, AWS, AWS EC2, AWS S3, Socket.io, Web Sockets, Superagent, Expo, EJS, jQuery, Mustache, PostgreSQL, MongoDB, Regex, CDN, Gatsby
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jquaglia&layout=compact&theme=calm&card_width=800)](https://github.com/jquaglia/github-readme-stats)
-
----
-
-### 🌟  &nbsp;&nbsp;Professional Competencies
-
-- Growth Mindset:
-
-  - I've always followed my curiosity to dig deeper and learn more.
-
-  - I'm always learning and making 1% changes to better myself.
-
-  - Diversity is the future to solving many of societies issues.
-
-  - Always working hard to be a reliable contributor.
-
----
-
-### 🏙 &nbsp;&nbsp;Companies I'm interested in
-
-- [Signal](https://signal.org/en/)
-
-- [Mozilla](https://www.mozilla.org/en-US/)
-
-- [Linux](https://www.linuxfoundation.org/)
-
-- [Protonmail](https://protonmail.com/)
-
----
-
-### 💻 &nbsp;&nbsp;I'm currently learning / working on
-
-- [Leetcode](https://leetcode.com/jquaglia/)
-
-- [HackerRank](https://www.hackerrank.com/jqugali)
-
-- [edX: CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
-- [Udemy: React](https://www.udemy.com/course/modern-react-bootcamp/)
-
-- [Udemy: DSA](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-
----
-<p align="center">
-    <a href="https://github.com/jquaglia/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=jquaglia&show_icons=true&theme=calm" />
-    </a>
-</p>
-
----
-
-### 🚀  &nbsp;&nbsp;Things I'm interested in and want to learn more about
-
-- Learning Languages 🇮🇹 🇭🇰
-
-- Hardware ( semi-conductors )
-
-- Building Keyboards/Computers
-
-- Cryptocurrency
-
-- Cryptography
-
-- Foraging for food! 🍄
 
 <!--
 **jquaglia/jquaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -115,3 +13,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love food!
+- 🔭 I’m currently working on ... myself lol
+- 🌱 I’m currently learning typescript
+- 🍄 Interested in foraging for food
+- ⛩️ Learning Japanese
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-quaglia) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jquaglia&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jquaglia&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jquaglia&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jquaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jquaglia&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
