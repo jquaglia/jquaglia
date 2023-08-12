@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jquaglia&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jquaglia&theme=tokyonight&hide_border=false)
 
-# 🏆 GitHub Trophies
 <!--
+# 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=jquaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 </p>
